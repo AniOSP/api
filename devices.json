@@ -3,12 +3,12 @@
       "codename": "lemonade",
       "camtype": "punch",
       "avail": false,
-      "url": "example.com"
+      "url": "https://example.com"
   },
   "OnePlus 9 Pro": {
       "codename": "lemonadep",
       "camtype": "punch",
       "avail": false,
-      "url": "example.com"
+      "url": "https://example.com"
   }
 }
