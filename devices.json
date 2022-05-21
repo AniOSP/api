@@ -1,0 +1,12 @@
+{
+  "OnePlus 9": {
+      codename: "lemonade",
+      camtype: "punch",
+      avail: false
+  },
+  "OnePlus 9 Pro": {
+      codename: "lemonadep",
+      camtype: "punch",
+      avail: false
+  }
+}
