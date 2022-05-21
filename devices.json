@@ -10,5 +10,17 @@
       "camtype": "punch",
       "avail": false,
       "url": "https://example.com"
+  },  
+  "Pixel 6": {
+      "codename": "oriole",
+      "camtype": "punch",
+      "avail": false,
+      "url": "https://example.com"
+  },
+  "Pixel 6 Pro": {
+      "codename": "raven",
+      "camtype": "punch",
+      "avail": false,
+      "url": "https://example.com"
   }
 }
