@@ -2,11 +2,13 @@
   "OnePlus 9": {
       "codename": "lemonade",
       "camtype": "punch",
-      "avail": false
+      "avail": false,
+      "url": "example.com"
   },
   "OnePlus 9 Pro": {
       "codename": "lemonadep",
       "camtype": "punch",
-      "avail": false
+      "avail": false,
+      "url": "example.com"
   }
 }
