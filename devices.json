@@ -1,26 +1,9 @@
-{
-  "OnePlus 9": {
-      "codename": "lemonade",
-      "camtype": "punch",
-      "avail": true,
-      "url": "https://download.aniosp.org/lemonade/shizuku/"
-  },
-  "OnePlus 9 Pro": {
-      "codename": "lemonadep",
-      "camtype": "punch",
-      "avail": false,
-      "url": "https://example.com"
-  },  
-  "Pixel 6": {
-      "codename": "oriole",
-      "camtype": "punch",
-      "avail": false,
-      "url": "https://example.com"
-  },
-  "Pixel 6 Pro": {
-      "codename": "raven",
-      "camtype": "punch",
-      "avail": false,
-      "url": "https://example.com"
+[
+  {
+    "name": "OnePlus 9",
+    "codename": "lemonade",
+    "avail": true,
+    "ota": "https://download.aniosp.org/lemonade/shizuku/ota.json",
+    "oem": "OnePlus"
   }
-}
+]
